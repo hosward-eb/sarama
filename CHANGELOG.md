@@ -1,5 +1,6 @@
 # Changelog
 
+<<<<<<< HEAD
 #### Version 1.17.0 (2018-05-30)
 
 New Features:
@@ -39,6 +40,9 @@ Bug Fixes:
    ([#1092](https://github.com/Shopify/sarama/pull/1092)).
 
 #### Version 1.16.0 (2018-02-12)
+=======
+#### Version 1.16.0 (unreleased)
+>>>>>>> parent of f7be6aa... Prep for 1.16
 
 New Features:
  - Add support for the Create/Delete Topics request/response pairs
